@@ -1,12 +1,8 @@
-# barre-nd3r0
-
-Es una navaja suiza digital de bajo consumo y alto potencial para pentesting y comunicación offline, basada en un ESP32 con pantalla e-ink, LoRa, teclado y tarjeta SD.
-
-# Documentación del Firmware ESP32 HackerPad
+# Documentación del Firmware ESP32 | barre-nd3r0
 
 ## Descripción General
 
-Este firmware convierte un ESP32 en una herramienta multifuncional portátil, apodada "HackerPad". Utiliza una pantalla de tinta electrónica (e-paper) para la interfaz de usuario, acepta entrada de teclado a través de un puerto serie secundario (Serial2), y ofrece diversas funcionalidades orientadas a la experimentación y utilidad en movilidad:
+Este firmware convierte un ESP32 en una herramienta multifuncional portátil, apodada "barre-nd3r0". Utiliza una pantalla de tinta electrónica (e-paper) para la interfaz de usuario, acepta entrada de teclado a través de un puerto serie secundario (Serial2), y ofrece diversas funcionalidades orientadas a la experimentación y utilidad en movilidad:
 
 * **Editor de Texto:** Permite crear y editar archivos de texto simple y código directamente en el dispositivo, con almacenamiento en tarjeta SD.
 * **Shell de Comandos:** Ofrece una interfaz básica tipo línea de comandos para interactuar con el sistema de archivos de la SD.
